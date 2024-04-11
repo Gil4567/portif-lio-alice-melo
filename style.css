@@ -155,3 +155,18 @@ section.especialidades .flex{
     font-size: 28px;
     margin: 15px 0;
 }
+
+/* ESTILO DO SOBRE */
+
+section.sobre{
+    padding: 40px 4%;
+}
+
+section.sobre .flex{
+    align-items: center;
+    gap: 60px;
+}
+
+.sobre .txt-sobre{
+    color: #fff;
+}
